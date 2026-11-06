@@ -3,6 +3,20 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# PyCharm project settings
+.idea/
+
+# Kaggle datasets
+train.csv
+test.csv
+
+# Generated predictions
+submission.csv
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
 # C extensions
 *.so
 
